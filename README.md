@@ -24,6 +24,7 @@ Develop  SQL-based anylytics to deliver detailed insight into:
 -**Sales Trends**
 
 ## Licence
+
 This project is licensed under the .[MIT Licence].(LICENCE). You are free to use, modify, and share this project with proper attribution.
 
 
