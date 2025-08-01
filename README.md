@@ -5,7 +5,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 ### Building the Data Warehouse ( Data Engineering)
 
-#### Objecttive
+#### Objective
 Develop a modern data wahrehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision making
 
 #### Specifications
@@ -18,7 +18,7 @@ Develop a modern data wahrehouse using SQL server to consolidate sales data, ena
 ### BI: Analytics and Reporting (Data Analytics)
 
 #### Objecttive
-Develop  SQL-based anylytics to deliver detailed insight into:
+Develop  SQL-based analytics to deliver detailed insight int
 -**Customer Behaviour**
 -**Product Performance**
 -**Sales Trends**
