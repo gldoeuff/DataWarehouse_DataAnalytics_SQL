@@ -18,10 +18,10 @@ Develop a modern data wahrehouse using SQL server to consolidate sales data, ena
 ### BI: Analytics and Reporting (Data Analytics)
 
 #### Objecttive
-Develop  SQL-based analytics to deliver detailed insight int
--**Customer Behaviour**
--**Product Performance**
--**Sales Trends**
+Develop  SQL-based analytics to deliver detailed insight:
+- **Customer Behaviour**
+- **Product Performance**
+- **Sales Trends**
 
 ## Licence
 
