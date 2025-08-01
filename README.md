@@ -15,6 +15,8 @@ Develop a modern data wahrehouse using SQL server to consolidate sales data, ena
 - **Scope**: Focus on the latest dataset only; historization of data is not required
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholder and analytics teams.
 
+![Alt text](/docs/HighLevelArchitectureDiagram.png)
+
 ### BI: Analytics and Reporting (Data Analytics)
 
 #### Objecttive
